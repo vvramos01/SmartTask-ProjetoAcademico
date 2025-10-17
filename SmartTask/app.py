@@ -1,0 +1,1 @@
+# Código completo do app.py do SmartTask (conforme documento)

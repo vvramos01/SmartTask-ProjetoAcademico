@@ -1,0 +1,1 @@
+# Código completo do forms.py (RegisterForm, LoginForm, TaskForm)
